@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'GT Walsheim';
-    src: url('fonts/GT-Walsheim-Regular1.eot');
-    src: url('fonts/GT-Walsheim-Regular1.eot?#iefix') format('embedded-opentype'),
-         url('fonts/GT-Walsheim-Regular1.woff2') format('woff2'),
-         url('fonts/GT-Walsheim-Regular1.woff') format('woff'),
-         url('fonts/GT-Walsheim-Regular1.ttf')  format('truetype'),
-         url('fonts/GT-Walsheim-Regular1.svg#GT Walsheim') format('svg');
-}
